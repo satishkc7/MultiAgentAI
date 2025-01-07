@@ -9,6 +9,5 @@ groq
 openai
 sqlalchemy
 pgvector
-pgvector2
 psycopg[binary]
 pypdf
